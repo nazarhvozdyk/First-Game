@@ -1,5 +1,4 @@
-# First-Game
-My first game
+# Shooter
 
 ScreenShoots
 
